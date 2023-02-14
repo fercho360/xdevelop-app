@@ -1,0 +1,23 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "description": "desarrolo de una api resfull con node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Alemán Sánchez",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "config": "^3.3.7",
+    "debug": "^4.3.3",
+    "express": "^4.17.2",
+    "joi": "^17.5.0",
+    "jquery": "^3.6.3",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.1.2",
+    "sequelize": "^6.28.0"
+  }
+}
